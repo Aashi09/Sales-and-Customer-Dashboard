@@ -7,7 +7,7 @@ The dashboard is part of a two-dashboard solution (Sales + Customer metrics), fo
 
 ## 🔗 Live Dashboard
 View the interactive dashboard on Tableau Public:  
-**https://public.tableau.com/views/SalesCustomerDashboards_17639645280890/SalesDashboard**
+**https://public.tableau.com/views/SalesCustomerDashboards_17639645280890/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 
 ---
 
@@ -51,4 +51,19 @@ The project was built using a BI-style workflow, including requirement analysis,
 - Add filters and interactions  
 - Add icons  
 
+---
+
+## 📸 Dashboard Screenshots
+
+### 1️⃣ Sales Dashboard (Full View)
+![Sales Dashboard](./Sales_Dashboard.jpg)
+
+### 2️⃣ Sales Dashboard (Filtered View)
+![Sales Dashboard with Filters](./FIltered_data_sales.jpg)
+
+### 3️⃣ Customer Dashboard (Full View)
+![Customer Dashboard](./Customer_Dashboard.jpg)
+
+### 4️⃣ Customer Dashboard (Filtered View)
+![Customer Dashboard with Filters](./FIltered_data_Customer.jpg)
 
